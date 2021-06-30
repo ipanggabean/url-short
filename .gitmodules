@@ -1,0 +1,6 @@
+[submodule "url-short-fe"]
+	path = url-short-fe
+	url = https://github.com/ipanggabean/url-short-fe
+[submodule "url-short-be"]
+	path = url-short-be
+	url = https://github.com/ipanggabean/url-short-be
